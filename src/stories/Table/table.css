@@ -1,0 +1,23 @@
+
+.buttonTable {
+  width: 100%;
+  border-collapse: collapse; 
+  margin: 20px 0;
+  text-align: center;
+}
+
+.buttonTable th, .buttonTable td {
+  border: 1px dotted black; 
+  padding: 8px; 
+}
+
+.buttonTable th {
+  height: 30px;
+  font-size: 18px;
+
+}
+
+.left-head {
+  max-width: 65px;
+  font-size: 14px;
+}
